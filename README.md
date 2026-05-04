@@ -4,7 +4,7 @@
 
 A GitHub Actions workflow that lets you download files into your repositmory just by writing a special commit message — no terminal or command line needed.
 d
----
+---s
 
 ## ⚙️ Setup
 
