@@ -16,7 +16,7 @@ d
 
 That's it — no tokens or secrets needed.
 
----
+---s
 
 ## 🚀 Usage
 
